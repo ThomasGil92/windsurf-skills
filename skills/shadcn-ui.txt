@@ -1,0 +1,1 @@
+npx skills add https://github.com/giuseppe-trisciuoglio/developer-kit --skill shadcn-ui

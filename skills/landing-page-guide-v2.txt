@@ -1,0 +1,1 @@
+npx skills add https://github.com/bear2u/my-skills --skill landing-page-guide-v2
